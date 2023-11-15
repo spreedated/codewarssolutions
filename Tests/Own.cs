@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
 using System.Collections.Generic;
-using static CodeWars.Own.ReadingsOvertime;
+using static Solutions.Own.ReadingsOvertime;
 
 namespace Tests
 {

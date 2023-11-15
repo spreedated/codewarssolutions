@@ -5,9 +5,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static CodeWars.Kyu5.CountIpAddresses;
-using static CodeWars.Kyu5.MovingZerosToTheEnd;
-using static CodeWars.Kyu5.AlphabetWarsNuclearStrike;
+using static Solutions.Kyu5.CountIpAddresses;
+using static Solutions.Kyu5.MovingZerosToTheEnd;
+using static Solutions.Kyu5.AlphabetWarsNuclearStrike;
 
 namespace Tests
 {

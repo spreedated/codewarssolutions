@@ -1,6 +1,6 @@
 ﻿using NUnit.Framework;
-using static CodeWars.Kyu6.CreatePhoneNumber_;
-using static CodeWars.Kyu6.PersistentBugger;
+using static Solutions.Kyu6.CreatePhoneNumber_;
+using static Solutions.Kyu6.PersistentBugger;
 
 namespace Tests
 {

@@ -2,21 +2,21 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using static CodeWars.Kyu7.BoiledEggs;
-using static CodeWars.Kyu7.ListFiltering;
-using static CodeWars.Kyu7.Isograms;
-using static CodeWars.Kyu7.ExesAndOhs;
-using static CodeWars.Kyu7.JadenCaseStrings;
-using static CodeWars.Kyu7.SumOfTwoLowestPositiveIntegers;
-using static CodeWars.Kyu7.FriendOrFoe_;
-using static CodeWars.Kyu7.PrinterErrors;
-using static CodeWars.Kyu7.ReverseLetters;
-using static CodeWars.Kyu7.DistinctDigitYear_;
-using static CodeWars.Kyu7.OnesAndZeros;
-using static CodeWars.Kyu7.CompareStringsToSumOfChars;
-using static CodeWars.Kyu7.CommonSubstrings;
-using static CodeWars.Kyu7.FirstReverseTry_;
-using static CodeWars.Kyu7.SillyCase_;
+using static Solutions.Kyu7.BoiledEggs;
+using static Solutions.Kyu7.ListFiltering;
+using static Solutions.Kyu7.Isograms;
+using static Solutions.Kyu7.ExesAndOhs;
+using static Solutions.Kyu7.JadenCaseStrings;
+using static Solutions.Kyu7.SumOfTwoLowestPositiveIntegers;
+using static Solutions.Kyu7.FriendOrFoe_;
+using static Solutions.Kyu7.PrinterErrors;
+using static Solutions.Kyu7.ReverseLetters;
+using static Solutions.Kyu7.DistinctDigitYear_;
+using static Solutions.Kyu7.OnesAndZeros;
+using static Solutions.Kyu7.CompareStringsToSumOfChars;
+using static Solutions.Kyu7.CommonSubstrings;
+using static Solutions.Kyu7.FirstReverseTry_;
+using static Solutions.Kyu7.SillyCase_;
 using System.Reflection;
 
 namespace Tests

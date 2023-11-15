@@ -1,5 +1,5 @@
 ﻿using NUnit.Framework;
-using static CodeWars.Kyu1.BecomeImmortal;
+using static Solutions.Kyu1.BecomeImmortal;
 
 namespace Tests
 {

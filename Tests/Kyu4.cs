@@ -1,10 +1,10 @@
 ﻿using NUnit.Framework;
 using NUnit.Framework.Constraints;
 using System.Collections;
-using static CodeWars.Kyu4.StripComments_;
-using static CodeWars.Kyu4.SumOfIntervals;
-using static CodeWars.Kyu4.BreadcrumbGenerator;
-using CodeWars.Kyu4;
+using static Solutions.Kyu4.StripComments_;
+using static Solutions.Kyu4.SumOfIntervals;
+using static Solutions.Kyu4.BreadcrumbGenerator;
+using Solutions.Kyu4;
 using System;
 
 namespace Tests
