@@ -6,6 +6,8 @@ CodeWars - Solutions
 This is a repo for some challanges CodeWars.com<br/>
 Feel free to add/complete/contribute to any unsolved challange!
 
+Find solutions in the "Solutions" project and their tests in the "Tests" project.
+
 ---
 
 ### Enjoying this?
