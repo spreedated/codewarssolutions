@@ -7,6 +7,8 @@
     <Nullable>disable</Nullable>
     <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
     <Title>CodeWars</Title>
+    <AssemblyTitle>CodeWars Solutions</AssemblyTitle>
+    <RootNamespace>CodeWars</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
@@ -17,6 +19,11 @@
     <None Include="..\README.md">
       <Pack>True</Pack>
     </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Solutions\Solutions.csproj" />
+    <ProjectReference Include="..\TextUserInterface\TextUserInterface.csproj" />
   </ItemGroup>
 
 </Project>
