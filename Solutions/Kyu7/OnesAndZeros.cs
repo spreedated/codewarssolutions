@@ -1,10 +1,11 @@
 ﻿using Solutions.Attributes;
 using System;
 using System.Linq;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu7
 {
-    [Kata("578553c3a1b8d5c40300037c")]
+    [Kata("578553c3a1b8d5c40300037c", PRIMARY_AUTHOR)]
     public static class OnesAndZeros
     {
         public static int BinaryArrayToNumber(int[] BinaryArray)

@@ -1,10 +1,11 @@
 ﻿using Solutions.Attributes;
 using System;
 using System.Linq;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu7
 {
-    [Kata("58b8c94b7df3f116eb00005b")]
+    [Kata("58b8c94b7df3f116eb00005b", PRIMARY_AUTHOR)]
     public static class ReverseLetters
     {
         public static string ReverseLetter(string str)

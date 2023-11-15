@@ -4,10 +4,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu4
 {
-    [Kata("563fbac924106b8bf7000046")]
+    [Kata("563fbac924106b8bf7000046", PRIMARY_AUTHOR)]
     public static class BreadcrumbGenerator
     {
         public static string GenerateBC(string url, string separator)

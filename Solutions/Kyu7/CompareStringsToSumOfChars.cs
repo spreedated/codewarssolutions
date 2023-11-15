@@ -1,13 +1,10 @@
 ﻿using Solutions.Attributes;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu7
 {
-    [Kata("576bb3c4b1abc497ec000065")]
+    [Kata("576bb3c4b1abc497ec000065", PRIMARY_AUTHOR)]
     public static class CompareStringsToSumOfChars
     {
         public static bool Compare(string s1, string s2)

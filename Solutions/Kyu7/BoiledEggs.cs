@@ -1,13 +1,10 @@
 ﻿using Solutions.Attributes;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu7
 {
-    [Kata("52b5247074ea613a09000164")]
+    [Kata("52b5247074ea613a09000164", PRIMARY_AUTHOR)]
     public static class BoiledEggs
     {
         public static int CookingTime(int eggs)

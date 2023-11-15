@@ -1,14 +1,12 @@
 ﻿using Solutions.Attributes;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu6
 {
-    [Kata("55bf01e5a717a0d57e0000ec")]
-    public class PersistentBugger
+    [Kata("55bf01e5a717a0d57e0000ec", PRIMARY_AUTHOR)]
+    public static class PersistentBugger
     {
         public static int Persistence(long n)
         {
@@ -29,7 +27,7 @@ namespace Solutions.Kyu6
                 results.Add(res);
             }
 
-            return results.Count-1;
+            return results.Count - 1;
         }
     }
 }

@@ -1,10 +1,11 @@
 ﻿using Solutions.Attributes;
 using System;
 using System.Linq;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu7
 {
-    [Kata("552ab0a4db0236ff1a00017a")]
+    [Kata("552ab0a4db0236ff1a00017a", PRIMARY_AUTHOR)]
     public static class SillyCase_
     {
         public static string SillyCase(string str)

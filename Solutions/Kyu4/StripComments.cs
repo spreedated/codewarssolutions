@@ -2,10 +2,11 @@
 using System;
 using System.Linq;
 using System.Text;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu4
 {
-    [Kata("51c8e37cee245da6b40000bd")]
+    [Kata("51c8e37cee245da6b40000bd", PRIMARY_AUTHOR)]
     public static class StripComments_
     {
         public static string StripComments(string text, string[] commentSymbols)

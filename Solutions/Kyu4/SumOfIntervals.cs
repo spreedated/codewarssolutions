@@ -3,10 +3,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu4
 {
-    [Kata("52b7ed099cdc285c300001cd")]
+    [Kata("52b7ed099cdc285c300001cd", PRIMARY_AUTHOR)]
     public static class SumOfIntervals
     {
         public static int SumIntervals(Interval[] intervals)

@@ -1,8 +1,9 @@
 ﻿using Solutions.Attributes;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu7
 {
-    [Kata("5669a5113c8ebf16ed00004c")]
+    [Kata("5669a5113c8ebf16ed00004c", PRIMARY_AUTHOR)]
     public static class CommonSubstrings
     {
         public static bool SubstringTest(string str1, string str2)

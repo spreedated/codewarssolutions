@@ -1,8 +1,11 @@
-﻿using System.Collections.Generic;
+﻿using Solutions.Attributes;
+using System.Collections.Generic;
 using System.Linq;
+using static Solutions.Constants;
 
 namespace Solutions.Own
 {
+    [Kata("Readings Overtime", PRIMARY_AUTHOR)]
     public static class ReadingsOvertime
     {
         public static long CalculateReadings(IEnumerable<long> readingsLog)

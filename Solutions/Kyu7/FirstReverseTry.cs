@@ -1,10 +1,11 @@
 ﻿using Solutions.Attributes;
 using System.Collections.Generic;
 using System.Linq;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu7
 {
-    [Kata("5886c6b2f3b6ae33dd0000be")]
+    [Kata("5886c6b2f3b6ae33dd0000be", PRIMARY_AUTHOR)]
     public static class FirstReverseTry_
     {
         public static int[] FirstReverseTry(int[] arr)

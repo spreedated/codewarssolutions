@@ -1,8 +1,9 @@
 ﻿using Solutions.Attributes;
+using static Solutions.Constants;
 
 namespace Solutions.Kyu1
 {
-    [Kata("59568be9cc15b57637000054", false)]
+    [Kata("59568be9cc15b57637000054", PRIMARY_AUTHOR, false)]
     public static class BecomeImmortal
     {
         public static long ElderAge(long n, long m, long k, long newp)

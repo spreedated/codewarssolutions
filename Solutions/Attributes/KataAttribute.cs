@@ -3,14 +3,16 @@
 namespace Solutions.Attributes
 {
     [AttributeUsage(AttributeTargets.Class)]
-    internal class KataAttribute : Attribute
+    public class KataAttribute : Attribute
     {
         public string Id { get; init; }
         public bool IsFinished { get; init; }
-        public KataAttribute(string id, bool isFinished = true)
+        public string Author { get; init; }
+        public KataAttribute(string id, string author = null, bool isFinished = true) : base()
         {
             this.Id = id;
             this.IsFinished = isFinished;
+            this.Author = author;
         }
     }
 }
